@@ -8,13 +8,14 @@ COPY java/src java/src
 
 WORKDIR /app/java
 
-RUN mvn clean install -DskipTests
+RUN mvn clean install
 
 FROM amazoncorretto:21-alpine-jdk
 
 WORKDIR /app
 
-COPY --from=build /app/java/target/java-ecommerce-application-0.0.1-SNAPSHOT.jar app.jar
+# CORRECTED: Use the actual JAR name found in the build logs
+COPY --from=build /app/java/target/java-0.0.1-SNAPSHOT.jar app.jar
 
 EXPOSE 8080
 
