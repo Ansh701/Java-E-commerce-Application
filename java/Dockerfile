@@ -5,7 +5,8 @@ COPY java/pom.xml java/
 COPY java/src java/src
 
 WORKDIR /app/java
-RUN mvn clean package -DskipTests
+RUN mvn clean package -DskipTests -Dspring.profiles.active=docker
+
 
 FROM amazoncorretto:21-alpine-jdk
 WORKDIR /app
