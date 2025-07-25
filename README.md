@@ -31,3 +31,55 @@
 ---
 
 ## 🛠 **Tech Stack**
+Backend : Java 17, Spring Boot 3, Hibernate 6
+Database : PostgreSQL (Render)
+Frontend : Thymeleaf, Bootstrap 5, JS
+Security : Spring Security
+Deployment: Docker + Render
+
+
+
+---
+
+## 🖼 **Preview**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh701/assets/main/ecommerce-demo.gif" alt="Demo" width="100%"/>
+</p>
+
+---
+
+## 🚪 **Access Panels**
+### **1. User Panel**
+- Visit: **[https://java-e-commerce-application.onrender.com](https://java-e-commerce-application.onrender.com)**
+- Log in using **User credentials**.
+
+### **2. Admin Panel**
+- Visit: **[https://java-e-commerce-application.onrender.com/admin](https://java-e-commerce-application.onrender.com/admin)**
+- Log in using **Admin credentials**.
+
+---
+
+## ⚡ **Features**
+- **3D-Feel UI** with smooth hover effects (CSS + JS).
+- **Secure Auth** (Spring Security).
+- **Responsive Cart & Checkout**.
+- **Admin Dashboard** for managing products & orders.
+- **RESTful APIs** (JSON ready).
+
+---
+
+## 🧠 **Future Enhancements**
+- 3D product previews using **Three.js**.
+- AI-based product recommendations.
+- PWA support for offline shopping.
+
+---
+
+## 📬 **Contact**
+If you want to collaborate or report bugs:
+- **Email:** `ansh_upadhyay@gmail.com`
+- **GitHub:** [@Ansh701](https://github.com/Ansh701)
+
+---
+
+<h3 align="center">💎 High-Tech • Futuristic • Next-Gen E-commerce 💎</h3>
