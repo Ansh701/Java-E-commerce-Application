@@ -38,16 +38,6 @@ Security : Spring Security
 Deployment: Docker + Render
 
 
-
----
-
-## 🖼 **Preview**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ansh701/assets/main/ecommerce-demo.gif" alt="Demo" width="100%"/>
-</p>
-
----
-
 ## 🚪 **Access Panels**
 ### **1. User Panel**
 - Visit: **[https://java-e-commerce-application.onrender.com](https://java-e-commerce-application.onrender.com)**
@@ -60,24 +50,15 @@ Deployment: Docker + Render
 ---
 
 ## ⚡ **Features**
-- **3D-Feel UI** with smooth hover effects (CSS + JS).
-- **Secure Auth** (Spring Security).
+- **Smooth UI** with smooth hover effects (HTML + CSS).
 - **Responsive Cart & Checkout**.
 - **Admin Dashboard** for managing products & orders.
-- **RESTful APIs** (JSON ready).
-
----
-
-## 🧠 **Future Enhancements**
-- 3D product previews using **Three.js**.
-- AI-based product recommendations.
-- PWA support for offline shopping.
 
 ---
 
 ## 📬 **Contact**
 If you want to collaborate or report bugs:
-- **Email:** `ansh_upadhyay@gmail.com`
+- **Email:** `anshupadhyay701@gmail.com`
 - **GitHub:** [@Ansh701](https://github.com/Ansh701)
 
 ---
